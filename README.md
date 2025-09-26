@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hanumanth Reddy G
+# 👋 Hi, I’m Hanu
 
 🚀 Full Stack Developer | Open to Software Engineering, DevOps, and Data Engineering Roles (Entry‑Level)
 
